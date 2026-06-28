@@ -1,0 +1,10 @@
+# Data artifacts are hosted on Hugging Face, not GitHub.
+/processed/
+/metadata/
+/splits/
+/manifest.json
+
+# Local/runtime noise.
+__pycache__/
+*.py[cod]
+.DS_Store
