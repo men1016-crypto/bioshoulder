@@ -8,3 +8,10 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Generated local outputs.
+/data/
+/outputs/
+/motion_cache/
+*.pt
+*.pth
