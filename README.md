@@ -56,7 +56,6 @@ bioshoulder/
   metadata/sequences_metadata.json
   splits/sequence_split_8_1_1_seed42.json
   splits/primary_action_disjoint_split_8_1_1_seed42.json
-  manifest.json
 ```
 
 ## Installation
