@@ -44,7 +44,8 @@ requirements.txt
 ```
 
 The large data files are hosted in the accompanying Hugging Face dataset
-repository and are intentionally ignored in this GitHub repository.
+repository: https://huggingface.co/datasets/mxa464646/Bioshoulder. They are
+intentionally ignored in this GitHub repository.
 
 Expected dataset files after download:
 
@@ -69,9 +70,10 @@ conda activate bioshoulder
 pip install -r requirements.txt
 ```
 
-Download the BioShoulder data from the Hugging Face dataset page and place the
-files under this repository root, so `processed/`, `metadata/`, and `splits/`
-sit next to `code/`.
+Download the BioShoulder data from
+https://huggingface.co/datasets/mxa464646/Bioshoulder and place the files under
+this repository root, so `processed/`, `metadata/`, and `splits/` sit next to
+`code/`.
 
 Quick smoke test:
 
@@ -326,7 +328,7 @@ Paper benchmark results for activation prediction:
 ## License and Data Policy
 
 This repository contains code only. BioShoulder data files should be downloaded
-from the accompanying Hugging Face dataset repository.
+from https://huggingface.co/datasets/mxa464646/Bioshoulder.
 
 BioShoulder intentionally excludes:
 
