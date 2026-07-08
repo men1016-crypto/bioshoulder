@@ -73,9 +73,3 @@ publish BABEL action labels.
 |---|---:|---:|---:|---:|---:|---:|
 | `sequence_split_8_1_1_seed42.json` | 37,597 | 5,354 | 5,186 | 1,508 | 189 | 189 |
 | `primary_action_disjoint_split_8_1_1_seed42.json` | 38,509 | 4,814 | 4,814 | 1,279 | 393 | 214 |
-
-## Citation
-
-If you use BioShoulder, cite the accompanying paper and the external datasets or
-preprocessing code used to reconstruct motion inputs, including AMASS, BABEL, and
-HumanML3D where applicable.

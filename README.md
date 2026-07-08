@@ -345,16 +345,3 @@ simulation-derived, a synthetic-to-real gap may remain when applying models to
 real physiological signals. The dataset also focuses on free-space upper-limb
 motions and is not designed for modeling heavy payloads or contact-rich
 human-object interaction.
-
-## Citation
-
-If you use BioShoulder, please cite the accompanying paper. Also cite AMASS,
-BABEL, and HumanML3D when you use their data or preprocessing code.
-
-```bibtex
-@misc{bioshoulder2026,
-  title = {BioShoulder: Shoulder Muscle Activation and Force Prediction from Human Motion},
-  author = {Anonymous},
-  year = {2026}
-}
-```
