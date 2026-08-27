@@ -45,7 +45,7 @@ requirements.txt
 
 The large data files are hosted in the accompanying Hugging Face dataset
 repository: https://huggingface.co/datasets/mxa464646/Bioshoulder. They are
-intentionally ignored in this GitHub repository.
+intentionally ignored in this code repository.
 
 Expected dataset files after download:
 
@@ -60,8 +60,10 @@ bioshoulder/
 
 ## Installation
 
+Download the anonymized repository as a ZIP from
+https://anonymous.4open.science/r/bioshoulder-DE32 and extract it. Then run:
+
 ```bash
-git clone https://github.com/men1016-crypto/bioshoulder.git
 cd bioshoulder
 
 conda create -n bioshoulder python=3.10 -y
