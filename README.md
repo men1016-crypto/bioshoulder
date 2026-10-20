@@ -60,10 +60,10 @@ bioshoulder/
 
 ## Installation
 
-Download the anonymized repository as a ZIP from
-https://anonymous.4open.science/r/bioshoulder-DE32 and extract it. Then run:
+Clone the official BioShoulder repository and install the dependencies:
 
 ```bash
+git clone https://github.com/men1016-crypto/bioshoulder.git
 cd bioshoulder
 
 conda create -n bioshoulder python=3.10 -y
